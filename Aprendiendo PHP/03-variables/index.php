@@ -1,10 +1,8 @@
 <?php
 
-    $var = "Soy una variable";
+$var = "Soy una variable";
 
-    $numero = 44;
-    $numero = 77;
-    echo '<h1>'.$var.'</h1>';
-    echo 'La variable numero vale '.$numero;
-
-?>
+$numero = 31;
+$numero = 76;
+echo '<h1>' . $var . '</h1>';
+echo 'La variable numero vale ' . $numero;

@@ -1,8 +1,7 @@
 <?php
-    define('constante',41);
-    define('web','https://erasmusu.com');
-    echo '<h1>'.web.'</h1>';
+define('constante', 41);
+define('web', 'https://mysoftup.com');
+echo '<h1>' . web . '</h1>';
 
-    //Constantes predefinidas
-    echo __FILE__;
-?>
+//Constantes predefinidas
+echo __FILE__;
