@@ -1,6 +1,5 @@
 <?php
-
-/**
+/*
 * IF
 */
 $color = "green";
@@ -10,6 +9,7 @@ if ($color == "red") {
 } else {
     echo "No es de color rojo" . '<br/>';
 }
+
 /*
 * Operadores de comparacion
 * == igual
