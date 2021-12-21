@@ -19,8 +19,8 @@ foreach ($cantantes as $cantante){
 echo '</ul>';
 
 $personas = array(
-    'nombre' => 'Samuel',
-    'apellidos' => 'Sanchez',
+    'nombre' => 'Diego',
+    'apellidos' => 'Carmona',
     'website' => 'prueba.com'
 );
 echo $personas['nombre'];

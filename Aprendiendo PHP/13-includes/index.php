@@ -1,15 +1,18 @@
     <?php
-        include 'includes/cabecera.php';
+    include 'includes/cabecera.php';
     ?>
+
     <body>
-        <hr/>
+        <hr />
         <div class="content">
             <h2>Contenido</h2>
-           <p>Texto de prueba</p>
+            <p>Texto de prueba</p>
         </div>
-        <hr/>
+        <hr />
     </body>
+
     <?php
-        include 'includes/footer.php';
+    include 'includes/footer.php';
     ?>
-</html>
+
+    </html>

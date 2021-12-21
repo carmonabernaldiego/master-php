@@ -1,3 +1,3 @@
 <footer>
-        Pruebaaaaaaaaaaaa
-        </footer>
+        Prueba
+</footer>

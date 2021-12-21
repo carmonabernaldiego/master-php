@@ -28,8 +28,8 @@ if ($year === 2021) {
     echo 'No estamos en 2021' . '<br/>';
 }
 
-$nombre = 'Samuel Murcia';
-$ciudad = 'Murcia';
+$nombre = 'Diego Carmona Bernal';
+$ciudad = 'Tuxtla';
 $continente = 'Europa';
 $edad = 30;
 $edadMayoria = 18;

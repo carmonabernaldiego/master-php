@@ -1,9 +1,7 @@
 <?php
+$abrirArchivo = fopen('fichero', "a+");
 
-
-$abrirArchivo = fopen('fichero',"a+");
-
-while(!feof($abrirArchivo)){
+while (!feof($abrirArchivo)) {
     $contenido = fgets($abrirArchivo);
     echo $contenido . '<br/>';
 }
@@ -14,11 +12,8 @@ fclose($abrirArchivo);
 //copy('fichero','ficheroCopia') or die('Error al copiar');
 //unlink('ficheroCambiadoDeNombre');
 
-if(file_exists('fichero')){
+if (file_exists('fichero')) {
     echo 'Existe';
-}
-else{
+} else {
     echo 'No existe';
 }
-
-?>
