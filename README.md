@@ -1,3 +1,3 @@
-# master_php
+# Master en PHP
 
-Curso PHP.
+Curso de PHP
